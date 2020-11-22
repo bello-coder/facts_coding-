@@ -5,7 +5,7 @@
 A simple recursive function
 */
 
-int power(int x, int y); // funtion prototype
+int power(int x, int y); // funtion prototype; power
 
 
 /*
@@ -17,7 +17,7 @@ int main(void) {
   return 0;
 }
 
-/*power function defintion*/
+/*Power function defintion*/
 int power(int firstVal, int secVal){
   int result; 
 
